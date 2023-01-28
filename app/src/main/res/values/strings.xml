@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Asignacion4_CalculadoraIMC_Roman</string>
+    <string name="estatura">Estatura (cm)</string>
+    <string name="peso">Peso (kg)</string>
+    <string name="imc">Calcular IMC</string>
+    <string name="total">Total...</string>
+</resources>
