@@ -6,4 +6,4 @@ Calculadora simple del indice de masa corporal realizado en Android Studio con K
 Esta asignación fue realizada para la materia de Aplicaciones Móviles en el Instituto Tecnológico de Sonora.
 
 ## Autor
-- [Oscar de Jesús Roman Ruíz] - [2023]
+Oscar de Jesús Roman Ruíz - 2023
